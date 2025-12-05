@@ -11,6 +11,7 @@ workspace-mcp-*.yaml
 # Cloned external repositories (clone from source as needed)
 google_workspace_mcp/
 toolhive/
+toolhive-studio/
 
 # Python
 __pycache__/
